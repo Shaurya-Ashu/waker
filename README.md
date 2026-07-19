@@ -98,6 +98,12 @@ It is a very simple case on which the PCB is screwed using two screws, and the t
 
 # Assembly
 
+<img width="650" height="1044" alt="Top Case" src="https://github.com/user-attachments/assets/de451a46-ece4-4d54-b66b-4904f5cad4ef" />
+
+The pcb is screwed in 
+
+
+<img width="1166" height="828" alt="1 step" src="https://github.com/user-attachments/assets/0a972aa3-2669-46f8-a59d-307177170d88" />
 
 
 
