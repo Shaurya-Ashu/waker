@@ -1,5 +1,5 @@
 ﻿S.No,Item Name,Description,Quantity,Price per Unit ($),Total Price ($),Purchase Link
-1,2.4GHz,ESP32-S3-WROOM-1-N16R8 (WIRELM-SMD_ESP32-S3-WROOM-1) - Designators: BRAINS,1,0.8198,0.8198,https://jlcpcb.com/parts/componentSearch?searchTxt=C2913202
+1,ESP32S3,ESP32-S3-WROOM-1-N16R8 (WIRELM-SMD_ESP32-S3-WROOM-1) - Designators: BRAINS,1,0.8198,0.8198,https://jlcpcb.com/parts/componentSearch?searchTxt=C2913202
 2,MLT-9032,MLT-9032 (BUZ-SMD_MLT-9032) - Designators: BUZZER1,1,0.0482,0.0482,https://jlcpcb.com/parts/componentSearch?searchTxt=C194480
 3,4.7uF,"JDK063BBJ475MV-AT (C0201) - Designators: C1,C2,C13,C14",4,0.0093,0.0372,https://jlcpcb.com/parts/componentSearch?searchTxt=C2880368
 4,1uF,CL03A105MQ3CSNH (C0201) - Designators: C3,1,0.0010,0.0010,https://jlcpcb.com/parts/componentSearch?searchTxt=C53067
@@ -12,7 +12,7 @@
 11,B130LAW-7-F,B130LAW-7-F (SOD-123_L2.8-W1.8-LS3.7-RD) - Designators: D1,1,0.0406,0.0406,https://jlcpcb.com/parts/componentSearch?searchTxt=C129191
 12,PRTR5V0U2X,PRTR5V0U2X (SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL) - Designators: D2,1,0.0098,0.0098,https://jlcpcb.com/parts/componentSearch?searchTxt=C2827688
 13,SUF4007,"SUF4007 (DO-213AB_L5.0-W2.5-RD) - Designators: D3,D4",2,0.0148,0.0296,https://jlcpcb.com/parts/componentSearch?searchTxt=C212757
-14,YTC1P-3515-01,"YTC1P-3515-01 (TESTPOINT-SMD_BD2.0_C9900030651) - Designators: GND,H+,H-,VBAT",4,0.0234,0.0936,https://jlcpcb.com/parts/componentSearch?searchTxt=C5221292
+14,lipo battery,1S 500MAH ,4,0.0234,0.0936,https://makerbazar.in/products/kp-3-7v-500mah-lipo-battery-single-cell-lithium-polymer-battery?variant=48251098005744&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopOZ6-pc7dgEWQHGO_1s6renv2JxAVqBu8axCIZp2_8tQTeELU85dQ
 15,1uH,LSCNB1005EET1R0MB (L0402) - Designators: L1,1,0.0548,0.0548,https://jlcpcb.com/parts/componentSearch?searchTxt=C6653407
 16,LPR6235-752SMRC,LPR6235-752SMRC (IND-SMD_4P-L6.0-W6.0_LPR6235-752SMRC) - Designators: L2,1,1.1229,1.1229,https://jlcpcb.com/parts/componentSearch?searchTxt=C7501749
 17,"OLED Display 128x64 (I2C, SSD1315)","0.96"" OLED Display 128x64, I2C - Designator: OLED1",1,1.2448,1.2448,https://jlcpcb.com/partdetail/HS-0_96_OLED_IIC/C5248080
