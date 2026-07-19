@@ -1,0 +1,44 @@
+﻿S.No,Item Name,Description,Quantity,Price per Unit ($),Total Price ($),Purchase Link
+1,2.4GHz,ESP32-S3-WROOM-1-N16R8 (WIRELM-SMD_ESP32-S3-WROOM-1) - Designators: BRAINS,1,0.8198,0.8198,https://jlcpcb.com/parts/componentSearch?searchTxt=C2913202
+2,MLT-9032,MLT-9032 (BUZ-SMD_MLT-9032) - Designators: BUZZER1,1,0.0482,0.0482,https://jlcpcb.com/parts/componentSearch?searchTxt=C194480
+3,4.7uF,"JDK063BBJ475MV-AT (C0201) - Designators: C1,C2,C13,C14",4,0.0093,0.0372,https://jlcpcb.com/parts/componentSearch?searchTxt=C2880368
+4,1uF,CL03A105MQ3CSNH (C0201) - Designators: C3,1,0.0010,0.0010,https://jlcpcb.com/parts/componentSearch?searchTxt=C53067
+5,22uF,"JDK105CBJ226MV-F (C0402) - Designators: C4,C6",2,0.0245,0.0490,https://jlcpcb.com/parts/componentSearch?searchTxt=C385994
+6,47uF,GRM21BR60J476ME15L (C0805) - Designators: C5,1,0.0478,0.0478,https://jlcpcb.com/parts/componentSearch?searchTxt=C77072
+7,1uF,GRM033R60J105KEA2D (C0201) - Designators: C7,1,0.0066,0.0066,https://jlcpcb.com/parts/componentSearch?searchTxt=C76929
+8,100nF,"GRM033R60J104KE19D (C0201) - Designators: C8,C9,C10,C11,C12,C15,C16",7,0.0004,0.0028,https://jlcpcb.com/parts/componentSearch?searchTxt=C76928
+9,470nF,"C4532X7T2W474KT000N (C1812) - Designators: C17,C18",2,0.0984,0.1968,https://jlcpcb.com/parts/componentSearch?searchTxt=C342626
+10,16-213SDRC/S530-A3/TR8,16-213SDRC/S530-A3/TR8 (LED0402-R-RD) - Designators: CHRG,1,0.0049,0.0049,https://jlcpcb.com/parts/componentSearch?searchTxt=C71911
+11,B130LAW-7-F,B130LAW-7-F (SOD-123_L2.8-W1.8-LS3.7-RD) - Designators: D1,1,0.0406,0.0406,https://jlcpcb.com/parts/componentSearch?searchTxt=C129191
+12,PRTR5V0U2X,PRTR5V0U2X (SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL) - Designators: D2,1,0.0098,0.0098,https://jlcpcb.com/parts/componentSearch?searchTxt=C2827688
+13,SUF4007,"SUF4007 (DO-213AB_L5.0-W2.5-RD) - Designators: D3,D4",2,0.0148,0.0296,https://jlcpcb.com/parts/componentSearch?searchTxt=C212757
+14,YTC1P-3515-01,"YTC1P-3515-01 (TESTPOINT-SMD_BD2.0_C9900030651) - Designators: GND,H+,H-,VBAT",4,0.0234,0.0936,https://jlcpcb.com/parts/componentSearch?searchTxt=C5221292
+15,1uH,LSCNB1005EET1R0MB (L0402) - Designators: L1,1,0.0548,0.0548,https://jlcpcb.com/parts/componentSearch?searchTxt=C6653407
+16,LPR6235-752SMRC,LPR6235-752SMRC (IND-SMD_4P-L6.0-W6.0_LPR6235-752SMRC) - Designators: L2,1,1.1229,1.1229,https://jlcpcb.com/parts/componentSearch?searchTxt=C7501749
+17,"OLED Display 128x64 (I2C, SSD1315)","0.96"" OLED Display 128x64, I2C - Designator: OLED1",1,1.2448,1.2448,https://jlcpcb.com/partdetail/HS-0_96_OLED_IIC/C5248080
+18,DMP1045U-HXY,DMP1045U-HXY (SOT-23-3_L2.9-W1.5-P1.90-LS2.6-BR) - Designators: Q1,1,0.0108,0.0108,https://jlcpcb.com/parts/componentSearch?searchTxt=C22366440
+19,BSS138-7-F,"BSS138-7-F (SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR) - Designators: Q2,Q3",2,0.0072,0.0144,https://jlcpcb.com/parts/componentSearch?searchTxt=C40912
+20,IRLR7843-DO,IRLR7843-DO (TO-252-2_L6.6-W6.2-P4.57-LS10.1-BR-CW) - Designators: Q4,1,0.0311,0.0311,https://jlcpcb.com/parts/componentSearch?searchTxt=C49208603
+21,470Ω,RTT014700FTH (R0201) - Designators: R1,1,0.0003,0.0003,https://jlcpcb.com/parts/componentSearch?searchTxt=C166182
+22,10kΩ,RTT011002FTH (R0201) - Designators: R2,1,0.0002,0.0002,https://jlcpcb.com/parts/componentSearch?searchTxt=C102684
+23,100kΩ,CR0201FH1003G (R0201) - Designators: R3,1,0.0007,0.0007,https://jlcpcb.com/parts/componentSearch?searchTxt=C100127
+24,5.1kΩ,"RC0201JR-075K1L (R0201) - Designators: R4,R5",2,0.0003,0.0006,https://jlcpcb.com/parts/componentSearch?searchTxt=C163490
+25,511kΩ,0201WMF5113TEE (R0201) - Designators: R6,1,0.0002,0.0002,https://jlcpcb.com/parts/componentSearch?searchTxt=C270342
+26,91kΩ,RTT01913JTH (R0201) - Designators: R7,1,0.0002,0.0002,https://jlcpcb.com/parts/componentSearch?searchTxt=C158299
+27,10kΩ,"RTT01103JTH (R0201) - Designators: R8,R15",2,0.0003,0.0006,https://jlcpcb.com/parts/componentSearch?searchTxt=C102690
+28,4.7kΩ,"RC0201JR-074K7L (R0201) - Designators: R9,R10,R13,R14",4,0.0005,0.0020,https://jlcpcb.com/parts/componentSearch?searchTxt=C142008
+29,150kΩ,0805W8J0154T5E (R0805) - Designators: R12,1,0.0003,0.0003,https://jlcpcb.com/parts/componentSearch?searchTxt=C25619
+30,KMR223GLFG,"KMR223GLFG (SW-SMD_5P-L4.2-W2.8-P1.60-LS4.6-TR) - Designators: SW1,SW2",2,0.1147,0.2294,https://jlcpcb.com/parts/componentSearch?searchTxt=C221678
+31,K2-1845SA-D4SW-04,"K2-1845SA-D4SW-04 (KEY-SMD_K2-1845SA-D4SW-04) - Designators: SW3,SW4",2,0.0155,0.0310,https://jlcpcb.com/parts/componentSearch?searchTxt=C128934
+32,MPU-6500,MPU-6500 (QFN-24_L3.0-W3.0-P0.40-BL-EP) - Designators: U1,1,0.7820,0.7820,https://jlcpcb.com/parts/componentSearch?searchTxt=C50278
+33,MCP73831T-2ACI/MC,MCP73831T-2ACI/MC (DFN-8_L3.0-W2.0-P0.50-BL-EP1.6) - Designators: U3,1,0.1493,0.1493,https://jlcpcb.com/parts/componentSearch?searchTxt=C411870
+34,TPS631000DRLR,TPS631000DRLR (SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BL) - Designators: U4,1,0.0779,0.0779,https://jlcpcb.com/parts/componentSearch?searchTxt=C5219190
+35,MCP9808-E/MS,MCP9808-E/MS (MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL) - Designators: U5,1,0.3306,0.3306,https://jlcpcb.com/parts/componentSearch?searchTxt=C94847
+36,MAX30101EFD+T,MAX30101EFD+T (OESIP-14_L5.6-W3.3-P0.80-TL) - Designators: U6,1,1.5619,1.5619,https://jlcpcb.com/parts/componentSearch?searchTxt=C2859066
+37,TPS78918DBVR,TPS78918DBVR (SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR) - Designators: U7,1,0.2703,0.2703,https://jlcpcb.com/parts/componentSearch?searchTxt=C2873122
+38,SIQ-02FVS3,SIQ-02FVS3 (SW-SMD_SIQ-02FVS3_1) - Designators: U8,1,0.6364,0.6364,https://jlcpcb.com/parts/componentSearch?searchTxt=C2925423
+39,USB-310-B-SU,USB-310-B-SU (USB-C-SMD_20P-P0.50-L7.4-W8.9) - Designators: USB,1,0.0330,0.0330,https://jlcpcb.com/parts/componentSearch?searchTxt=C309347
+40,3D Printing (Case),3D printed enclosure/case for the device,1,5.00,5.00,https://jlcpcb.com/3d-printing
+41,PCB Manufacturing + PCBA Service,"5x PCBs manufactured, 2 of which assembled (PCBA) via JLCPCB",1,100.00,100.00,https://jlcpcb.com/quote
+,,,,,,
+,,,,GRAND TOTAL,$112.97,
